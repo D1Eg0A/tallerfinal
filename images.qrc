@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Corporate_Management.png</file>
+  </qresource>
+</RCC>

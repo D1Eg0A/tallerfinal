@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../images/bottom right.png</file>
+    <file>../images/bottom.png</file>
+    <file>../images/Class_img.png</file>
+    <file>../images/Corporate_Management.png</file>
+    <file>../images/personal_card.png</file>
+    <file>../images/Prof_img.png</file>
+    <file>../images/top_left.png</file>
+    <file>../images/top_right.png</file>
+  </qresource>
+</RCC>
